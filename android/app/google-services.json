@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "876432529523",
+    "firebase_url": "https://flutter-bitrime-default-rtdb.firebaseio.com",
+    "project_id": "flutter-bitrime",
+    "storage_bucket": "flutter-bitrime.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876432529523:android:15037f8a8926945f0df206",
+        "android_client_info": {
+          "package_name": "com.example.notes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876432529523-qldqv3k2ukree097a24sb8d9dngpa4s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkrg6AlDugraNaZPXhG_pV89a9AiXGLsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876432529523-qldqv3k2ukree097a24sb8d9dngpa4s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
